@@ -1,0 +1,6 @@
+C:\Examen4\CapaDatos\InterfacesMuestra\bin\Debug\InterfacesMuestra.exe.config
+C:\Examen4\CapaDatos\InterfacesMuestra\bin\Debug\InterfacesMuestra.exe
+C:\Examen4\CapaDatos\InterfacesMuestra\bin\Debug\InterfacesMuestra.pdb
+C:\Examen4\CapaDatos\InterfacesMuestra\obj\Debug\InterfacesMuestra.csprojResolveAssemblyReference.cache
+C:\Examen4\CapaDatos\InterfacesMuestra\obj\Debug\InterfacesMuestra.exe
+C:\Examen4\CapaDatos\InterfacesMuestra\obj\Debug\InterfacesMuestra.pdb

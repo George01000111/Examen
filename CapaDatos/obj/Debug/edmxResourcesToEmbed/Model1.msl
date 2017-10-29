@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BDEXAMENModelStoreContainer" CdmEntityContainer="BDEXAMENEntities">
+    <EntitySetMapping Name="TbMuestras">
+      <EntityTypeMapping TypeName="BDEXAMENModel.TbMuestra">
+        <MappingFragment StoreEntitySet="TbMuestra">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="NombrePersona" ColumnName="NombrePersona" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

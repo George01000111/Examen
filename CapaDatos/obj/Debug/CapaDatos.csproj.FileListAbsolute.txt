@@ -1,0 +1,10 @@
+C:\Examen4\CapaDatos\CapaDatos\bin\Debug\CapaDatos.exe.config
+C:\Examen4\CapaDatos\CapaDatos\bin\Debug\CapaDatos.exe
+C:\Examen4\CapaDatos\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Examen4\CapaDatos\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Examen4\CapaDatos\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Examen4\CapaDatos\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Examen4\CapaDatos\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Examen4\CapaDatos\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Examen4\CapaDatos\CapaDatos\obj\Debug\CapaDatos.exe
+C:\Examen4\CapaDatos\CapaDatos\obj\Debug\CapaDatos.pdb
